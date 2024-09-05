@@ -1,8 +1,8 @@
 ---
 title: "Daniel Zou"
-image: portait.jpg
+image: portrait.jpg
 about: 
-  template: solana gi
+  template: solana
   links: 
     - text: GitHub
       href: https://github.com/daniel-j-zou
