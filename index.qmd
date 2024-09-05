@@ -1,5 +1,13 @@
 ---
-title: "daniel-j-zou.github.io"
+title: "Daniel Zou"
+image: portait.jpg
+about: 
+  template: solana 
+  links: 
+    - text: GitHub
+      href: https://github.com/daniel-j-zou
+      icon: "github"
+  image-width: 10em
 ---
 
 This is a Quarto website.
