@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Daniel Zou",
     "section": "",
-    "text": "Hello.\nThis is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "I am a 2nd year PhD student in the Statistics Department at the University of Michigan."
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,12 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Daniel Zou",
+    "section": "Education",
+    "text": "Education\nUniversity of Michigan | Ann Arbor, MI PhD in Statistics | August 2023 - Current\nReed College | Portland, OR B.A. in Mathematics-Computer Science | August 2019 - May 2023"
   }
 ]
