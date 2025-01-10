@@ -3,12 +3,14 @@ project:
   output-dir: docs
 
 website:
-  title: "daniel-j-zou.github.io"
+  title: ""
   navbar:
     left:
       - href: index.qmd
-        text: Home
-      - about.qmd
+        text: Daniel Zou
+      # - about.qmd
+      - href: cv.pdf
+        text: CV
 
 format:
   html:

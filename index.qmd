@@ -11,7 +11,9 @@ about:
 ---
 
 I am a 2nd year PhD student in the Statistics Department at the University of Michigan. 
+I am currently working on transfer learning.
 
+My thesis advisors are [Moulinath Banerjee](https://dept.stat.lsa.umich.edu/~moulib/main-info.html) and [Yuekai Sun](https://yuekai.github.io/).
 
 
 ---
