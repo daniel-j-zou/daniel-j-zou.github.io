@@ -10,8 +10,8 @@ about:
   image-width: 10em
 ---
 
-I am a 2nd year PhD student in the Statistics Department at the University of Michigan. 
-I am currently working on transfer learning.
+I am a third year PhD student in the Statistics Department at the University of Michigan. 
+I am currently working on transfer learning and score-explained heterogenous treatment effect models.
 
 My thesis advisors are [Moulinath Banerjee](https://dept.stat.lsa.umich.edu/~moulib/main-info.html) and [Yuekai Sun](https://yuekai.github.io/).
 
@@ -20,10 +20,10 @@ My thesis advisors are [Moulinath Banerjee](https://dept.stat.lsa.umich.edu/~mou
 
 ## Education
 
-University of Michigan | Ann Arbor, MI
+University of Michigan | Ann Arbor, MI.  
 PhD in Statistics | August 2023 - Current
 
-Reed College | Portland, OR
+Reed College | Portland, OR.   
 B.A. in Mathematics-Computer Science | August 2019 - May 2023
 
 
